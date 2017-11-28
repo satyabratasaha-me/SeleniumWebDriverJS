@@ -1,0 +1,16 @@
+{
+  "name": "webdriver-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
